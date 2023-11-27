@@ -1,0 +1,21 @@
+*{
+    list-style: none;
+}
+img{
+    width: 52%;
+    object-fit: cover;
+}
+.root{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 80%;
+}
+.card{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 18%;
+}
+ul{
+    width: 296px;
+    height: 193px;
+}
